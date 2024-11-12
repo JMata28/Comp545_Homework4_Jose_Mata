@@ -5,7 +5,7 @@
 #Run using the latest Python version or Python 3.12.2 64-bit
 #Run from command line or from Visual Studio Code 
 #The program will sort and display the numbers hardcoded into the program in the list "unsorted_numbers"
-#from least to greatest. 
+#from least to greatest, using Radix sort and count sort. 
 
 #This project is fully completed and no features of it were left undone. 
 
